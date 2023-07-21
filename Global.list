@@ -98,7 +98,6 @@ HOST,cdngarenanow-a.akamaihd.net,Global
 HOST,cds.apple.com.akadns.net,Global
 HOST,certs-lb.apple.com.akadns.net,Global
 HOST,cf-images.ap-southeast-1.prod.boltdns.net,Global
-HOST,chat.openai.com.cdn.cloudflare.net,Global
 HOST,chinapower.csis.org,Global
 HOST,cisco.evergage.com,Global
 HOST,ciscolivehls-i.akamaihd.net,Global
@@ -259,7 +258,6 @@ HOST,okaapps.com,Global
 HOST,oneclient.sfx.ms,Global
 HOST,oneocsp.microsoft.com,Global
 HOST,ood.opsource.net,Global
-HOST,openaiapi-site.azureedge.net,Global
 HOST,opgg-static.akamaized.net,Global
 HOST,oscdn.origin-apple.com.akadns.net,Global
 HOST,overwatch.nosdn.127.net,Global
@@ -27160,7 +27158,6 @@ HOST-SUFFIX,ooyala.com,Global
 HOST-SUFFIX,ope99.com,Global
 HOST-SUFFIX,open.com.hk,Global
 HOST-SUFFIX,open.firstory.me,Global
-HOST-SUFFIX,openai.com,Global
 HOST-SUFFIX,openaked.com,Global
 HOST-SUFFIX,openallweb.com,Global
 HOST-SUFFIX,opendemocracy.net,Global
