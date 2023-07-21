@@ -2,7 +2,7 @@
 
 2.打开重写配置MitM
 
-3.导入本配置文件[qx.conf](https://raw.githubusercontent.com/kirbyr2/my-qx-files/main/qx.conf)https://raw.githubusercontent.com/kirbyr2/my-qx-files/main/qx.conf)
+3.导入本配置文件[qx.conf](https://raw.githubusercontent.com/kirbyr2/my-qx-files/main/qx.conf)
 
 4.重新添加节点资源
 
