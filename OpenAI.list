@@ -23,3 +23,4 @@ HOST-KEYWORD,openai,OpenAI
 HOST-KEYWORD,stripe,OpenAI
 HOST-SUFFIX,livekit.cloud,OpenAI
 HOST-SUFFIX,revenuecat.com,OpenAI
+HOST-SUFFIX,digitalocean.com,OpenAI
