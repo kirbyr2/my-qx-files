@@ -21,5 +21,5 @@ HOST-SUFFIX,production-openaicom-storage.azureedge.net,OpenAI
 HOST-SUFFIX,fileserviceuploadsperm.blob.core.windows.net,OpenAI
 HOST-KEYWORD,openai,OpenAI
 HOST-KEYWORD,stripe,OpenAI
-HOST-SUFFIX,revenuecat.com
-HOST-SUFFIX,livekit.cloud
+HOST-SUFFIX,revenuecat.com,OpenAI
+HOST-SUFFIX,livekit.cloud,OpenAI
